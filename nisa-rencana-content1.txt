@@ -3,8 +3,10 @@ RENCANA NISA KONTEN
  -Javascript
   *ES6
   *Framework Javascript
- -Struktur Data Dasar
+  ^ Angular
+  ^ React
  -PHP Frameworks
+  ^ Laravel
  -Interview
  -Vlogs
 asdfg
